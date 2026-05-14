@@ -98,29 +98,6 @@ The dashboard transforms raw ride data into actionable business insights to impr
 ✔ Data Modeling
 ```
 
----
-
-# 📂 Project Structure
-
-```text
-Rapido-Ride-Analysis/
-│
-├── Dashboard.pbix
-├── dataset.csv
-├── analysis.ipynb
-├── screenshots/
-└── README.md
-```
-
----
-
-# 📸 Dashboard Preview
-
-## Main Dashboard
-![Dashboard Preview](screenshots/dashboard.png)
-
----
-
 # 💡 Business Impact
 
 This project highlights how data can improve ride-hailing operations:
@@ -143,7 +120,7 @@ This project highlights how data can improve ride-hailing operations:
 
 # 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]www.linkedin.com/in/dhrubajit-debnath-34302b2b6)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
 
