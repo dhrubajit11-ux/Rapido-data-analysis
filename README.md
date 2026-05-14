@@ -120,7 +120,7 @@ This project highlights how data can improve ride-hailing operations:
 
 # 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/dhrubajit-debnath-34302b2b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhrubajit-debnath-34302b2b6)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/dhrubajit11-ux)
 
